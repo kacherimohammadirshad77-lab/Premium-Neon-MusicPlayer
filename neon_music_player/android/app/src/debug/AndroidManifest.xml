@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Debug-only permission so `flutter run` can talk to the running app
+         over the network for hot reload. Not present in release builds. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

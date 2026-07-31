@@ -1,0 +1,3 @@
+PRODUCT_NAME = neon_music_player
+PRODUCT_BUNDLE_IDENTIFIER = com.neonmusic.player
+PRODUCT_COPYRIGHT = Copyright © 2026 Neon Music. All rights reserved.
